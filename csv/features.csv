@@ -1,0 +1,9 @@
+﻿testcase,is_active
+Wrong credentials,Y
+Landing page,Y
+Add task,Y
+Remove task,Y
+Mark complete task,Y
+Unmark complete task,Y
+Important task page,Y
+All task page,Y
