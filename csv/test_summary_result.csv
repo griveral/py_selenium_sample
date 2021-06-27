@@ -1,0 +1,9 @@
+Test case,status
+Wrong credentials,PASSED
+Landing page,PASSED
+Add task,PASSED
+Remove task,PASSED
+Mark complete task,PASSED
+Unmark complete task,PASSED
+Important task page,PASSED
+All task page,PASSED
